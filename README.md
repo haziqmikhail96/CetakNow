@@ -1,2 +1,0 @@
-# CetakNow
-CetakNow Project
